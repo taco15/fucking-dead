@@ -1,5 +1,5 @@
-# ok it's a big project 
+# ok it's a too big project 
 
 # My social media
-  Twitter - https://twitter.com/BrunoBleszynski (@BrunoBleszynski) | Twitch - https://www.twitch.tv/taco15_tv (taco15_tv)
+  Twitter - https://twitter.com/BrunoBleszynski (@BrunoBleszynski) 
   
